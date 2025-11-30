@@ -19,7 +19,7 @@ The content covers a wide range of topics, from the fundamentals of quantum info
     </td>
   </tr>
   <tr>
-    <td rowspan="4">IBM Quantum Learning</td>
+    <td rowspan="5">IBM Quantum Learning</td>
     <td>
         <a href="https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information">
         Basics of quantum information</a>
@@ -35,6 +35,12 @@ The content covers a wide range of topics, from the fundamentals of quantum info
     <td>
         <a href="https://quantum.cloud.ibm.com/learning/en/courses/quantum-computing-in-practice/introduction">
         Quantum computing in practice</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://quantum.cloud.ibm.com/learning/en/modules/computer-science">
+        Qiskit in the classroom</a>
     </td>
   </tr>
   <tr>
