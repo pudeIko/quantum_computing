@@ -24,7 +24,7 @@ The content covers a wide range of topics, from the fundamentals of quantum info
   </tr>
 
   <tr>
-    <td rowspan="6">IBM Quantum Learning</td>
+    <td rowspan="7">IBM Quantum Learning</td>
     <td>
         <a href="https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information">
         Basics of quantum information</a>
@@ -47,11 +47,12 @@ The content covers a wide range of topics, from the fundamentals of quantum info
 
   <tr>
     <td>
-        <a href="https://quantum.cloud.ibm.com/learning/en/courses/quantum-computing-in-practice/introduction">
-        Quantum computing in practice</a>
+        <a href="https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning">
+        Quantum Machine Learning</a>
     </td>
     <td>
-        -</a>
+        <a href="https://www.credly.com/badges/df071da7-73af-4c2b-9902-a989c4f76a2c">
+        Certificate</a>
     </td>
   </tr>
 
@@ -63,6 +64,16 @@ The content covers a wide range of topics, from the fundamentals of quantum info
     <td>
         <a href="https://www.credly.com/badges/8fce2844-3318-401f-8505-f42f5a7fe0e8/public_url">
         Certificate</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        <a href="https://quantum.cloud.ibm.com/learning/en/courses/quantum-computing-in-practice/introduction">
+        Quantum computing in practice</a>
+    </td>
+    <td>
+        -</a>
     </td>
   </tr>
 
