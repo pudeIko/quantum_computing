@@ -24,7 +24,7 @@ The content covers a wide range of topics, from the fundamentals of quantum info
   </tr>
 
   <tr>
-    <td rowspan="7">IBM Quantum Learning</td>
+    <td rowspan="8">IBM Quantum Learning</td>
     <td>
         <a href="https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information">
         Basics of quantum information</a>
@@ -102,9 +102,6 @@ The content covers a wide range of topics, from the fundamentals of quantum info
     <td>
         <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvrgHZt3exM_NNiNKtZlHvZi">
         Coding With Qiskit</a>
-    </td>
-    <td>
-        -
     </td>
     <td>
         -
