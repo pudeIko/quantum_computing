@@ -106,5 +106,8 @@ The content covers a wide range of topics, from the fundamentals of quantum info
     <td>
         -
     </td>
+    <td>
+        -
+    </td>
   </tr>
 </table>
