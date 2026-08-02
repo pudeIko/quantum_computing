@@ -47,6 +47,17 @@ The content covers a wide range of topics, from the fundamentals of quantum info
 
   <tr>
     <td>
+        <a href="https://quantum.cloud.ibm.com/learning/en/courses/integrating-quantum-and-high-performance-computing">
+        Integrating Quantum and High-Performance Computing</a>
+    </td>
+    <td>
+        <a href="https://www.credly.com/badges/e80a7a02-02b8-42de-afa9-3e701456e245/public_url">
+        Certificate</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
         <a href="https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning">
         Quantum Machine Learning</a>
     </td>
